@@ -61,6 +61,36 @@
     border-radius: 10px;
     padding-bottom: 45px;
 }
+.flex-sec{
+    display: flex;
+    margin-top: 50px;
+}
+.img-div{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin-left: 150px;
+}
+.team1{
+    margin: 5px;
+    height: 270px;
+    width: 270px;
+}
+.text-div{
+    padding-left: 90px;
+    padding-top: 120px;
+}
+.quick-para{
+    width: 550px;
+    color: var(--Dark-03, #727272);
+    padding-top: 15px;
+    font-family: Work Sans;
+    padding-bottom: 25px;
+}
+.quick-title{
+    font-family: Work Sans;
+    font-size: 30px;
+}
+
 
 
 
